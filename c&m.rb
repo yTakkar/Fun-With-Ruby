@@ -1,5 +1,5 @@
-require_relative 'human.rb'
-require_relative 'smart.rb'
+require_relative 'human_module.rb'
+require_relative 'smart_module.rb'
 
 class Scientist
   attr_accessor :name
