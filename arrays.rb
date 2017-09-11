@@ -19,3 +19,4 @@ puts arr.unshift(0)
 puts arr.shift
 puts arr.push(8)
 puts arr.pop
+puts arr.any?
